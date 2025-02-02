@@ -1,0 +1,2 @@
+import subprocess
+subprocess.run(['python', '/storage/emulated/0/Download/mcm/mcm_hub.py'])

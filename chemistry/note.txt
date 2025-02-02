@@ -1,0 +1,9 @@
+criar tabela
+apartir dela criar funcoes
+ideias de funcoes:
+comparar eletrons neutrons e protons numero atomico
+apresentar dados ja citados
+apresentar familia de um elemento 
+etc...
+
+iniciar quando se obter melhor conhecimento em excel ou xml (planilhas no geral)

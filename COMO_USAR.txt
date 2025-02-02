@@ -1,0 +1,23 @@
+   == LEIA ATENTAMENTE ANTES DE INICIAR O PROCESSO ==
+
+    para rodar o programa mcm no Termux,siga esses passos:
+    
+
+    1-transfira o arquivo mcm que esta dentro da pasta mcm (sem ser o mcm_hub.py) para a pasta downloads.APENAS O ARQUIVO mcm
+    2-instale o termux e digite esse codigo gigante completo no terminal:
+    (ele pode permissão para acessar os arquivos,permita para rodar o programa).
+
+
+    termux-setup-storage && pkg update -y && pkg upgrade -y && pkg install python -y
+mkdir ~/mcm && mv /storage/emulated/0/Download/main.py ~/mcm/
+    clear
+    
+
+    3-Agora sempre que quiser usar o programa apenas digite:
+    
+    cd mcm (use apenas se não estiver na pasta mcm(a verde no canto superior esquerdo))
+    python mcm (sempre que quiser rodar o programa)
+
+    caso queira parar o programa aperte o botão de abaixar volume + C e de enter.
+
+    NOTA:DEIXE A PASTA "mcm" NA PASTA DOWNLOADS.
